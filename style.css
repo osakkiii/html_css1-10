@@ -260,7 +260,7 @@ footer {
   }
 
   .blog-text {
-    padding-left: 25px;
+    padding: 25px 35px;
   }
 
   .pagination {
@@ -272,7 +272,12 @@ footer {
     width: 100%;
   }
 
-
-
+  .instagram-box {
+    margin-right: 10px;
+  }
+  
+  .sidebar-contents {
+    padding: 50px 90px;
+  }
 
 }
